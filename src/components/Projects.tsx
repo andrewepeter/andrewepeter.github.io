@@ -6,9 +6,10 @@ const Projects = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="bg-white rounded-lg shadow-lg p-6">
-                    <h2 className="text-xl font-bold mb-4">AI Cover Letter Creator</h2>
-                    <p className="mt-2 text-gray-700">A web application designed to generate personalized cover letters tailored to specific job postings and your resume. Developed using Restful/OpenAI APIs, React, and Python.</p>
-                    <a href="https://cover-letter-creator-d5d7c840a39c.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded transition duration-300">View Project</a>
+                    <h2 className="text-xl font-bold mb-4">aijobnavigator.com</h2>
+                    <p className="mt-2 text-gray-700">
+                     Developed a comprehensive AI-powered job search application that enhances user experience by tracking job applications, generating personalized cover letters, preparing interview questions, and crafting post-interview thank you emails, utilizing OpenAI APIs for natural language processing and generation, with Flask, PostgreSQL, and React as the core technologies.</p>
+                    <a href="https://aijobnavigator.com//" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded transition duration-300">View Project</a>
                 </div>
 
 
