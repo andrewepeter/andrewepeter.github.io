@@ -9,7 +9,7 @@ const Projects = () => {
                     <h2 className="text-xl font-bold mb-4">aijobnavigator.com</h2>
                     <p className="mt-2 text-gray-700">
                      Developed a comprehensive AI-powered job search application that enhances user experience by tracking job applications, generating personalized cover letters, preparing interview questions, and crafting post-interview thank you emails, utilizing OpenAI APIs for natural language processing and generation, with Flask, PostgreSQL, and React as the core technologies.</p>
-                    <a href="https://aijobnavigator.com//" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded transition duration-300">View Project</a>
+                    <a href="https://aijobnavigator.com" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block bg-gray-800 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded transition duration-300">View Project</a>
                 </div>
 
 
